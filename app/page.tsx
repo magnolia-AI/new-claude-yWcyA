@@ -141,7 +141,7 @@ export default function Home() {
               </span>
               <br />
               <span className="bg-gradient-to-r from-orange-500 via-red-500 to-pink-500 bg-clip-text text-transparent">
-                Business Today
+                Business Tomorrow
               </span>
             </h1>
             
@@ -355,6 +355,7 @@ export default function Home() {
     </div>
   )
 }
+
 
 
 
